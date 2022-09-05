@@ -1,0 +1,22 @@
+{
+  "name": "mini-blog-project-49",
+  "version": "1.0.0",
+  "description": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohdfayeem321/Mini-Blog-Project-49.git"
+  },
+  "author": "rukmani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohdfayeem321/Mini-Blog-Project-49/issues"
+  },
+  "homepage": "https://github.com/Mohdfayeem321/Mini-Blog-Project-49#readme",
+  "dependencies": {
+    "mongoose": "^6.5.4"
+  }
+}
